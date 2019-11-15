@@ -50,9 +50,12 @@ You may obtain cards from the open world.
 ### ADDITIONAL RULES
 Whenever you tap a land for mana, it goes to your depot.
 
+### DISCARD
+When cards are sent to your graveyard or depot in any way or form, they only go there at the end of turn, they can’t be access from any means until they are in the graveyard or depot.
+
 ### DYING AND WINNING
 Players start with 20 life.
-When your life becomes 0, you skip your next turn. 
+When your life becomes 0, you do not lose and are not eliminated, instead you skip your next turn. 
     If the opponent that dealt the killing blow to you still does not have your player token, they get one of your player tokens.
     After your skipped turn, your life total becomes 10.
     Continue play as usual.
@@ -61,8 +64,6 @@ When your life becomes 0, you skip your next turn.
 
 ## FOR TESTING
 
-### DISCARD
-When cards are sent to the discard from play, they only go there at the end of turn. When they are discarded from play they can’t be access from any means except until after they are sent to the discard at the end of turn
     
 ### AETHER CRAFTING GUIDE
 experiential, not competitive. You want it to be tactical, all about building yourself up. Give hindrences to opponents not setting them back.
