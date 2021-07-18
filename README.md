@@ -48,7 +48,8 @@ You may obtain cards from the open world.
     Then place the land you want from the open world into your depot.
 
 ### ADDITIONAL RULES
-Whenever you tap a land for mana, it goes to your depot.
+You may play any number of basic lands from your hand, counting as your single land drop for the turn. Non-basic lands follow the single land drop rule as normal.
+Whenever YOU tap a land for any reason, it goes to your depot.
 
 ### DISCARD
 When cards are sent to your graveyard or depot in any way or form, they only go there at the end of turn, they can’t be access from any means until they are in the graveyard or depot.
